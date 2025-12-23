@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Welcome to my personal portfolio website hosted on GitHub Pages!  
+Welcome to my personal portfolio website.
 This site showcases my skills, projects, and achievements.
 
 ## 🌐 Live Demo
@@ -18,8 +18,6 @@ This portfolio highlights:
 - HTML
 - CSS
 - JavaScript
-- React (if used)
-- GitHub Pages
 
 ## 📁 Projects
 Detailed in the site under “Projects” section.
@@ -29,3 +27,4 @@ If you want to reach out:
 ✉️ Email • 📍 LinkedIn
 
 Thanks for visiting!
+
